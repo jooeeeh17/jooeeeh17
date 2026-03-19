@@ -1,5 +1,11 @@
-## 안녕하세요 저는 덕성여대 디지털소프트웨어공학부 이주희입니다 ~_~ ## 👋
+<div align="center">
+  
+##  안녕하세요 
+  덕성여대 디지털소프트웨어공학부 이주희입니다 🥰👋
 
+🐹   (～￣▽￣)～
+
+</div>
 <!--
 **jooeeeh17/jooeeeh17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
